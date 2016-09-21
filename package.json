@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "nodemon": "nodemon app.js"
+    "nodemon": "nodemon app.js",
+    "coffee": "coffee --compile --watch *.coffee js/*.coffee"
   },
   "repository": {
     "type": "git",
