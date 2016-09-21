@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "nodemon": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BobbyErickson89/hangman.git"
+  },
+  "author": "Bobby Erickson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BobbyErickson89/hangman/issues"
+  },
+  "homepage": "https://github.com/BobbyErickson89/hangman"
+}
