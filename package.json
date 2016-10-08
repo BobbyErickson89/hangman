@@ -6,11 +6,12 @@
   "dependencies": {
     "express": "^4.14.0",
     "jquery": "^3.1.0",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
-    "nodemon": "nodemon app.js",
-    "coffee": "coffee --compile --watch *.coffee js/*.coffee"
+    "nodemon:watch": "nodemon app.js",
+    "coffee:watch": "coffee --compile --watch *.coffee js/*.coffee"
   },
   "repository": {
     "type": "git",
